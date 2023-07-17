@@ -1,7 +1,7 @@
 import React, { useContext, useEffect, useState } from "react";
 // import Loading from "../pages/Loading";
 
-export const URL = `http://www.omdbapi.com/?apikey=69f6105f`;
+export const URL = `https://www.omdbapi.com/?apikey=69f6105f`;
 
 const AppContext = React.createContext();
 
