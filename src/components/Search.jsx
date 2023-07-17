@@ -6,7 +6,7 @@ const Search = () => {
 
   return (
     <div id="search-header">
-      <h1>Search Your Favourite Movie</h1>
+      <h1>Search Your Favourite Movies</h1>
       <div className="search-container">
         <h3 className="search-text">Search :   </h3>
 
